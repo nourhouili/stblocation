@@ -1,0 +1,54 @@
+[
+    {
+        "id": "000",
+        "bank_id": "10",
+        "name": "AV.H.THAMEUR TUNIS",
+        "adressBranch": {
+            
+            "city": "TUNIS",
+            "county": "TUNIS",
+            "state": "TUNIS",
+            "postcode": "1000      ",
+           
+        },
+        "locationBranch": {
+            "latitude": "36,801304",
+            "longitude": "10,178042"
+        },
+        "branchrouting": {
+            "scheme": "OBP",
+            "address": ""
+        },
+        "is_accessible": "true",
+        "accessibleFeatures": "wheelchair, atm usuable by the visually impaired",
+        "branch_type": "Full service store",
+        "more_info": "short walk to the lake from here",
+        "phone_number": ""
+    },
+    {
+        "id": "001",
+        "bank_id": "10",
+        "name": "R.AL JAZIRA TUNIS",
+        "adressBranch": {
+            
+            "city": "TUNIS",
+            "county": "TUNIS",
+            "state": "TUNIS",
+            "postcode": "1000      ",
+           
+        },
+        "locationBranch": {
+            "latitude": "36,7960989",
+            "longitude": "10,175778"
+        },
+        "branchrouting": {
+            "scheme": "OBP",
+            "address": ""
+        },
+        "is_accessible": "true",
+        "accessibleFeatures": "wheelchair, atm usuable by the visually impaired",
+        "branch_type": "Full service store",
+        "more_info": "short walk to the lake from here",
+        "phone_number": ""
+    },
+]
